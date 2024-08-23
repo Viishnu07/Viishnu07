@@ -4,15 +4,13 @@
 
 - **Windows Forms Application (C#)**
   - [Printing Service Management](https://github.com/Viishnu07/Printing-Service-Management-System)
-<!--
+
 - **Python Scripting**
-  - [Network Security Tools](https://github.com/Viishnu07/Network-Security-Scripts)
-  - [Cryptography Algorithms Implementation](https://github.com/Viishnu07/Cryptography-Algorithms)
-- **PowerShell**
-  - [Active Directory Bulk User Creation](https://github.com/Viishnu07/AD-Bulk-User-Creation)
-  - [Incident Response Automation Scripts](https://github.com/Viishnu07/Incident-Response-PowerShell)
-- **C# (.NET Applications)**
-  - [Secure Coding Practices Demo](https://github.com/Viishnu07/Secure-Coding-Demo)
+  -
+- **Password Strength Checker**
+  - 
+<!--
+
 -->
 <h2>📄 Certifications</h2>
 
