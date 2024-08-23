@@ -29,13 +29,11 @@
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Viishnu Sree Ganesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Viishnu Sree Ganesh | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/x.svg" />][x]
 [<img align="left" alt="Viishnu Sree Ganesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Viishnu Sree Ganesh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/facebook.svg" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/viishnusreeganesh/
 [instagram]: https://www.instagram.com/viishnu_sg/
-[x]: https://x.com/Viishnu07
 [facebook]: https://www.facebook.com/Viishnu15/
 
 
