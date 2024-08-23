@@ -6,9 +6,13 @@
   - [Printing Service Management](https://github.com/Viishnu07/Printing-Service-Management-System)
 
 - **Python Scripting**
-  -
+  - <em>🚧 This section is still under maintenance 🚧</em>
 - **Password Strength Checker**
-  - 
+  - <em>🚧 This section is still under maintenance 🚧</em>
+- **Captcha Generator**
+  - <em>🚧 This section is still under maintenance 🚧</em>
+
+✨ <strong>More projects coming soon! Stay tuned! 🚀</strong> ✨
 <!--
 
 -->
