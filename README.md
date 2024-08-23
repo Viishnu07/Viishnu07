@@ -1,7 +1,7 @@
 <h1>Hi, I'm Viishnu! <br/><a href="https://github.com/Viishnu07">Aspiring Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/viishnusreeganesh/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+<!--
 - **Smart Contract Development (Solidity)**
   - [Basic Smart Contract Examples](https://github.com/Viishnu07/Smart-Contracts)
 - **Python Scripting**
@@ -12,7 +12,7 @@
   - [Incident Response Automation Scripts](https://github.com/Viishnu07/Incident-Response-PowerShell)
 - **C# (.NET Applications)**
   - [Secure Coding Practices Demo](https://github.com/Viishnu07/Secure-Coding-Demo)
-
+-->
 <h2>📄 Certifications</h2>
 
 - **[Foundations of Operationalizing MITRE ATT&CK v13](https://www.credly.com/badges/48b30d3b-2da0-4485-af0b-5b1c52939f87/public_url)**  
