@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - **Windows Forms Application (C#)**
-  - [Printing Service Management](https://github.com/Viishnu07/Smart-Contracts)
+  - [Printing Service Management](https://github.com/Viishnu07/Printing-Service-Management-System)
 <!--
 - **Python Scripting**
   - [Network Security Tools](https://github.com/Viishnu07/Network-Security-Scripts)
