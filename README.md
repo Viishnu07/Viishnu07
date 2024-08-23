@@ -11,6 +11,9 @@
   - <em>🚧 This section is still under maintenance 🚧</em>
 - **Captcha Generator**
   - <em>🚧 This section is still under maintenance 🚧</em>
+- **Basic Solidity**
+  - <em>🚧 This section is still under maintenance 🚧</em>
+  
 
 ✨ <strong>More projects coming soon! Stay tuned! 🚀</strong> ✨
 <!--
