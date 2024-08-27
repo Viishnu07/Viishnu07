@@ -8,7 +8,7 @@
 - **Python Scripting**
   - <em>🚧 This section is still under maintenance 🚧</em>
 - **Password Strength Checker**
-  - <em>🚧 This section is still under maintenance 🚧</em>
+  - [Password Strength Checker](https://github.com/Viishnu07/PasswordStrengthChecker)
 - **Captcha Generator**
   - <em>🚧 This section is still under maintenance 🚧</em>
 - **Basic Solidity**
