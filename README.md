@@ -10,7 +10,7 @@
 - **Password Strength Checker**
   - [Password Strength Checker](https://github.com/Viishnu07/PasswordStrengthChecker)
 - **Captcha Generator**
-  - <em>🚧 This section is still under maintenance 🚧</em>
+  - [Captcha Generator](https://github.com/Viishnu07/Captcha_Generator)
 - **Basic Solidity**
   - <em>🚧 This section is still under maintenance 🚧</em>
   
