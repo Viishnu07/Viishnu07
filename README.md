@@ -25,6 +25,7 @@
 - **[Certified in Cybersecurity (CC)](https://www.credly.com/badges/2a8edb81-1aa3-4090-bb72-1f9616e311f7/public_url)**  
 - **[CCNA: Introduction to Networks](https://www.credly.com/badges/426ead71-cc26-4493-92ea-330175b85067/public_url)**  
 - **[Introduction to Cybersecurity by CCNA](https://www.credly.com/badges/74f673b9-7091-4f2a-939b-199cad6ddc06/public_url)**
+- **[LFD121: Developing Secure Software] (https://www.credly.com/badges/a560fb63-869f-43aa-b68d-3707747f0f9b/linked_in_profile)**
 
 <h2>🤳 Connect with me:</h2>
 
