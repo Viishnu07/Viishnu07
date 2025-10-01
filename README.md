@@ -5,18 +5,23 @@
 - **Windows Forms Application (C#)** .NET framework
   - [Printing Service Management](https://github.com/Viishnu07/Printing-Service-Management-System)
 
-- **Python Scripting**
-  - <em>🚧 This section is still under maintenance 🚧</em>
+- **Cybersecurity (Python)**
+  - [Security Headers Auditor](https://github.com/Viishnu07/security-headers-auditor) — CLI to audit common web security headers (CSP, HSTS, XFO, Referrer-Policy, Permissions-Policy, COOP/COEP/CORP) with table, **JSON** (`--json-out`) and **Markdown** (`--md-out`) reports.  
+    <a href="https://github.com/Viishnu07/security-headers-auditor/actions/workflows/ci.yml">
+      <img src="https://github.com/Viishnu07/security-headers-auditor/actions/workflows/ci.yml/badge.svg" alt="CI">
+    </a>
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+
 - **Password Strength Checker**
   - [Password Strength Checker](https://github.com/Viishnu07/PasswordStrengthChecker)
+
 - **Captcha Generator**
   - [Captcha Generator](https://github.com/Viishnu07/Captcha_Generator)
+
 - **Basic Solidity**
   - <em>🚧 This section is still under maintenance 🚧</em>
   
-
 ✨ <strong>More projects coming soon! Stay tuned! 🚀</strong> ✨
-<!--
 
 -->
 <h2>📄 Certifications</h2>
