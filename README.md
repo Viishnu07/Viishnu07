@@ -8,7 +8,7 @@
 - **Cybersecurity (Python)**
   - [Security Headers Auditor](https://github.com/Viishnu07/security-headers-auditor) — CLI to audit common web security headers (CSP, HSTS, XFO, Referrer-Policy, Permissions-Policy, COOP/COEP/CORP) with table, **JSON** (`--json-out`) and **Markdown** (`--md-out`) reports.  
     <a href="https://github.com/Viishnu07/security-headers-auditor/actions/workflows/ci.yml">
-      <img src="https://github.com/Viishnu07/security-headers-auditor/actions/workflows/ci.yml/badge.svg" alt="CI">
+      <img src="https://github.com/Viishnu07/security-headers-auditor/actions/workflows/ci.yml/badge.svg">
     </a>
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 
