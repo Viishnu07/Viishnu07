@@ -4,6 +4,10 @@
 
 - **Windows Forms Application (C#)** .NET framework
   - [Printing Service Management](https://github.com/Viishnu07/Printing-Service-Management-System)
+ 
+- **Home Networking (Wi-Fi)**
+  - [Home Wi-Fi Extension with Maxis Routers](https://github.com/Viishnu07/home-wifi-maxis-extender) — documented setup of a double-storey home network using two Maxis routers in extender/AP mode to eliminate dead zones, with **step-by-step guide**, **Mac verification methods**, **FTP storage setup**, and a **diagram**.
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 
 - **Cybersecurity (Python)**
   - [Security Headers Auditor](https://github.com/Viishnu07/security-headers-auditor) — CLI to audit common web security headers (CSP, HSTS, XFO, Referrer-Policy, Permissions-Policy, COOP/COEP/CORP) with table, **JSON** (`--json-out`) and **Markdown** (`--md-out`) reports.  
