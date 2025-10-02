@@ -23,7 +23,8 @@
   - [Captcha Generator](https://github.com/Viishnu07/Captcha_Generator)
 
 - **Basic Solidity**
-  - <em>🚧 This section is still under maintenance 🚧</em>
+  - [Secure TimeLock Vault](https://github.com/Viishnu07/secure-timelock-vault) — Per-user ETH timelock vault with **reentrancy protection**, CEI pattern, owner pause/lock bounds, and Foundry tests (includes a malicious reentrancy attacker to prove defenses).
+
   
 ✨ <strong>More projects coming soon! Stay tuned! 🚀</strong> ✨
 
