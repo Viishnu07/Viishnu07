@@ -24,6 +24,11 @@
 
 - **Basic Solidity**
   - [Secure TimeLock Vault](https://github.com/Viishnu07/secure-timelock-vault) — Per-user ETH timelock vault with **reentrancy protection**, CEI pattern, owner pause/lock bounds, and Foundry tests (includes a malicious reentrancy attacker to prove defenses).
+ 
+- **Fuel & Expense Tracker (Tkinter + SQLite)**
+  - [Fuel & Expense Tracker](https://github.com/Viishnu07/fuel-tracker) — a desktop application to log and analyze vehicle fuel usage and expenses using **Python**, **Tkinter**, **SQLite**, and **Matplotlib**.  
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+
 
   
 ✨ <strong>More projects coming soon! Stay tuned! 🚀</strong> ✨
