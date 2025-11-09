@@ -4,6 +4,10 @@
 
 - **Windows Forms Application (C#)** .NET framework
   - [Printing Service Management](https://github.com/Viishnu07/Printing-Service-Management-System)
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+ 
+- [FYP_ModbusHoneypot Water Treatment Plant](https://github.com/Viishnu07/FYP_ModbusHoneypot_Water_Treatment_Plant) — A realistic Modbus TCP simulator (with HMI dashboard) for ICS security training, testing, and research.
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
  
 - **Home Networking (Wi-Fi)**
   - [Home Wi-Fi Extension with Maxis Routers](https://github.com/Viishnu07/home-wifi-maxis-extender) — documented setup of a double-storey home network using two Maxis routers in extender/AP mode to eliminate dead zones, with **step-by-step guide**, **Mac verification methods**, **FTP storage setup**, and a **diagram**.
@@ -18,12 +22,15 @@
 
 - **Password Strength Checker**
   - [Password Strength Checker](https://github.com/Viishnu07/PasswordStrengthChecker)
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 
 - **Captcha Generator**
   - [Captcha Generator](https://github.com/Viishnu07/Captcha_Generator)
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 
 - **Basic Solidity**
   - [Secure TimeLock Vault](https://github.com/Viishnu07/secure-timelock-vault) — Per-user ETH timelock vault with **reentrancy protection**, CEI pattern, owner pause/lock bounds, and Foundry tests (includes a malicious reentrancy attacker to prove defenses).
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
  
 - **Fuel & Expense Tracker (Tkinter + SQLite)**
   - [Fuel & Expense Tracker](https://github.com/Viishnu07/fuel-tracker) — a desktop application to log and analyze vehicle fuel usage and expenses using **Python**, **Tkinter**, **SQLite**, and **Matplotlib**.  
